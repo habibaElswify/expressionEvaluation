@@ -1,7 +1,6 @@
 package Project2;
 
 /* Habiba Elswify
- * 202517637
  * 5/24/24
  * This program checks to see if input (expression) is valid,
  * sends the input off to a infix to postfix converter and then to a postfix
