@@ -1,7 +1,6 @@
 package Project2;
 
 /* Habiba Elswify
- * 202517637
  * 5/24/24
  * This program takes an infix expression as input and loops through the 
  * expression, converting it to postfix using the stack. 
