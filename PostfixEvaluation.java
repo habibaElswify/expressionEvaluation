@@ -1,7 +1,6 @@
 package Project2;
 
 /* Habiba Elswify
- * 202517637
  * 5/24/24
  * This program takes a postfix expression as input and then loops through it, 
  * and evaluates the result of the expression.
