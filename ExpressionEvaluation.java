@@ -1,7 +1,6 @@
 package Project2;
 
 /* Habiba Elswify
- * 202517637
  * 5/24/24
  * This program takes an expression as input and determines if it is a proper 
  * statement. If any errors are found within the expression, the program
